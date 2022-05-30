@@ -13,10 +13,10 @@ html,body{
 /*music*/
 .music{
 	position:fixed;
-	top:3vh;
-	right:4vw;
+	top:4vh;
+	right:3vw;
 	z-index: 5;
-	width:15vw;
+	width:30vw;
 	height:15vw;
 	border:5px solid #81b7c3;
 	border-radius: 50%;
